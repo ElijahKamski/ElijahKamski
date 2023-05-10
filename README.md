@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ai@ikhripkov.ru**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10wQGk5h2U44PR79_Q7fj5iPwDwc8xTpi/view?usp=sharing](https://drive.google.com/file/d/10wQGk5h2U44PR79_Q7fj5iPwDwc8xTpi/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/10wQGk5h2U44PR79_Q7fj5iPwDwc8xTpi/view?usp=sharing](https://drive.google.com/file/d/10wQGk5h2U44PR79_Q7fj5iPwDwc8xTpi/view?usp=sharing)](https://drive.google.com/file/d/1MBIRRv6ME1ZXE8Dg10FtXd0qdWNmb9AQ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
