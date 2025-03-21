@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahkamski" alt="elijahkamski" /></a> </p>
 
-- 🔭 I’m currently working on [Computer Vision applications in dzen](https://dzen.ru/)
+- 🔭 I’m currently working on [Large Language Models in Avito](https://avito.ru/)
 
 - 🌱 I’m currently learning **Graph NNs, RL applications in robotics, ROS, LLM**
 
