@@ -15,8 +15,8 @@
 
 - 📫 How to reach me **ai@ikhripkov.ru**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MBIRRv6ME1ZXE8Dg10FtXd0qdWNmb9AQ/view?usp=sharing](https://drive.google.com/file/d/1MBIRRv6ME1ZXE8Dg10FtXd0qdWNmb9AQ/view?usp=sharing)
-- 
+- 📄 My CV [Google Drive](https://drive.google.com/file/d/1CSPHzQBJYfifLAFj99a_Oe5Y2nVKYsez/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yaroslav-khripkov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaroslav-khripkov" height="30" width="40" /></a>
